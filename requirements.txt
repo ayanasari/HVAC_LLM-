@@ -1,0 +1,4 @@
+numpy>=1.24
+matplotlib>=3.7
+anthropic>=0.40
+pytest>=7
